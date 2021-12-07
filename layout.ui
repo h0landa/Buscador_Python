@@ -25,6 +25,10 @@
   <property name="windowTitle">
    <string>Hunin</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../Downloads/257591853_4232254753549477_5571114680826881474_n-removebg-preview.ico</normaloff>../../../Downloads/257591853_4232254753549477_5571114680826881474_n-removebg-preview.ico</iconset>
+  </property>
   <property name="styleSheet">
    <string notr="true">background-color: rgb(89, 161, 255);</string>
   </property>
